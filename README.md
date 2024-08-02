@@ -4,10 +4,10 @@
 
 The objective is to enhance the performance and profitability of pizza sales by analyzing detailed order data. The dataset includes the following columns:
 
-**Order Details**: Specific information about each individual pizza order, including size, toppings, and special instructions.
-**Orders**: A unique identifier for each order, which may contain multiple pizzas.
-**PizzaTypes**: The categories or types of pizzas available (e.g., Margherita, Pepperoni, Veggie).
-**Pizzas**: The specific pizzas included in each order, including their type and any customizations.
+- **Order Details**: Specific information about each individual pizza order, including size, toppings, and special instructions.
+- **Orders**: A unique identifier for each order, which may contain multiple pizzas.
+- **PizzaTypes**: The categories or types of pizzas available (e.g., Margherita, Pepperoni, Veggie).
+- **Pizzas**: The specific pizzas included in each order, including their type and any customizations.
 
 **Objectives:**
 
